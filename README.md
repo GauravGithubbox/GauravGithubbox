@@ -8,7 +8,7 @@ I am currently working as a **Java Developer**, with the goal of becoming a **pr
 
 ### ⚡🙋‍♂️ About Me
 
-- 🔧 I’m currently working on **building scalable microservices using Spring Boot and Spring Cloud**.
+- 🔧 I’m currently working on **Developing scalable microservices with Java and Spring Boot**.
 - 💡 I’m curious about **exploring Reactive Programming, Artificial Intelligence (AI), and their applications in modern software development**.
 - 📖 I’m currently learning more about **Google Cloud Services and System Design**.
 - ❄️ I’m looking to collaborate on **open-source projects** that focus on innovative solutions for real-world problems.
